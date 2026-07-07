@@ -47,7 +47,7 @@ Pour maximiser l'efficacité de la suite sur un nouveau projet, il est fortement
 Chaque invite (prompt) du dépôt suit le même protocole d'utilisation :
 
 1. **Copiez l'intégralité du prompt en Markdown** correspondant à l'outil souhaité.
-2. Ouvrez votre interface de modèle de langage (LLM) préféré.
+2. Ouvrez votre interface de modèle de langage (LLM).
 3. Allez tout en bas du prompt dans la section `### DONNÉES DU PROJET :`.
 4. Remplissez les crochets par vos informations brutes (textes, listes, ou tableaux copiés depuis Excel).
 5. **Lancez la génération.**
