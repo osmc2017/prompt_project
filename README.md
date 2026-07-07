@@ -1,9 +1,5 @@
 # prompt_project
 
-
-Voici la version corrigée, reprenant exactement la structure et les détails de sorties du premier modèle, tout en intégrant avec une précision chirurgicale les éléments d'entrée requis :
-
-```markdown
 # 🛠️ Suite d'Outils PMO & Rendu Visuel SVG Automatique
 
 Cette suite regroupe **4 prompts structurés et déterministes** conçus pour automatiser la gouvernance, la planification, le contrôle financier et l'architecture de vos projets. 
@@ -74,4 +70,3 @@ Chaque invite (prompt) du dépôt suit le même protocole d'utilisation :
 
 > ⚠️ **Note importante sur le rendu visuel :** Les modèles génèrent le rendu graphique dans un bloc de code XML unique. Pour afficher votre graphique, copiez le code généré, collez-le dans un éditeur de texte, enregistrez le fichier avec l'extension `.svg` (ex: `mon_projet.svg`), puis ouvrez-le simplement dans n'importe quel navigateur web ou logiciel de dessin.
 
-```
